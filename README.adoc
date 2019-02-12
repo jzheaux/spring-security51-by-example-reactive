@@ -1,0 +1,3 @@
+# Spring Securty 5.1 by Example
+
+https://gist.github.com/rwinch/cd1b459d6e04d30d72edb7e6919b3cbb[Spring Security OAuth 2 HTTP to Java Mappings]
